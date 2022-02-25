@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/car2_kopia.png</file>
+        <file>Images/RedCar.png</file>
+        <file>Images/car8_kopia.png</file>
+        <file>Images/racetrack7.png</file>
+        <file>Sounds/engine_heavy_average_loop.wav</file>
+        <file>Sounds/engine_heavy_fast_loop.wav</file>
+        <file>Sounds/engine_heavy_slow_loop.wav</file>
+    </qresource>
+</RCC>
