@@ -1,0 +1,2 @@
+# MouseCar
+This is a 2D game written in C++ using Qt Creator 4.9.1 based on Qt 5.12.3 (MSVC 2017, 32 bit). All graphics and sounds are from OpenGameArt.org   Car is from Telefrag Entertainment https://opengameart.org/content/cars-trucks-and-a-limo   Road is from CraftPix.net 2D Game Assets https://opengameart.org/content/race-track-tile-set   Sounds are from Nayckron https://opengameart.org/content/engine-loop-heavy-vehicletank
